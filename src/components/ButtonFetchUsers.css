@@ -1,0 +1,11 @@
+.btn {
+    padding: 10px 20px;
+    margin: 20px;
+    border: 1px solid #7490A8;
+    background-color: #B3C2CF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #42444C;
+    cursor: pointer;
+}
